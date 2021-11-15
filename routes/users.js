@@ -4,6 +4,10 @@ const express = require("express");
 const { Users, validateUser } = require("../models/user");
 const router = express.Router();
 
+router.get("/", async (req, res) => {
+  return res.send(Users.find({}));
+});
+
 router.post("/", async (req, res) => {
   const { error } = validateUser(req.body);
   if (error) return res.status(400).send(error.details[0].message);
