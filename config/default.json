@@ -1,4 +1,0 @@
-{
-  "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db": "mongodb+srv://vidlyuser:vidlypass@cluster0.7ofhy.mongodb.net/vijayawada?retryWrites=true&w=majority"
-}
