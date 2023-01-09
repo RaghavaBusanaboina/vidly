@@ -41,3 +41,6 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly..."}
 {"level":"info","message":"Listening on port 4000..."}
 {"level":"info","message":"Connected to mongodb://localhost/vidly..."}
+{"level":"info","message":"Connected to mongodb+srv://vidlyuser:vidlypass@cluster0.7ofhy.mongodb.net/vijayawada?retryWrites=true&w=majority..."}
+{"level":"info","message":"Connected to mongodb+srv://vidlyuser:vidlypass@cluster0.7ofhy.mongodb.net/vijayawada?retryWrites=true&w=majority..."}
+{"level":"info","message":"Connected to mongodb+srv://vidlyuser:vidlypass@cluster0.7ofhy.mongodb.net/vijayawada?retryWrites=true&w=majority..."}

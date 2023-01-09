@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "123456",
-  "db": "mongodb://localhost/vidly_tests"
+  "db": "mongodb+srv://vidlyuser:vidlypass@cluster0.7ofhy.mongodb.net/vijayawada?retryWrites=true&w=majority"
 }
